@@ -1,4 +1,4 @@
-# Projet_BDDA (Mini SGBD)
+# Projet_BDDA(Mini SGBD)
 
 ## Table des matières
 - [Présentation](#présentation)
@@ -98,30 +98,11 @@ BULKINSERT INTO nomRelation nomFichier.csv
 ```SQL
 SELECT aliasRel.colp1, aliasRel.colp2,…, aliasRel.colpm FROM nomRelation aliasRel
 ```
+
 ## Contributeurs
 - [BOUCHELLAL Imad Eddine](https://github.com/Imad-Bchl)
 - [DERMOUCHE Ryad](https://github.com/DERMOUCHERYAD)
 - [MERADI Youcef](https://github.com/NyroY64)
 - [CHIBANI Ramzy](https://github.com/DZ-Ramzy)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
